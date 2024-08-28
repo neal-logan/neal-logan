@@ -15,15 +15,17 @@ Here are some ideas to get you started:
 -->
 
 ### Interesting Projects 
-Some tools, projects, and perspectives I like, classified by interests:
+Some tools, projects, and perspectives I like:
 
-#### Analytics
-* [Ibis](https://github.com/ibis-project) - Scalable data analytics for a Python context, compatible with numerous back-end data sources. Allows you to query your Ibis dataframes using either Python or SQL!
-* [Vega](https://altair-viz.github.io/) - Declarative language that illustrates a grammar of visualiazation.
+#### Data Science
+**[Ibis](https://github.com/ibis-project)** Scalable data manipulation in a Python context, compatible with numerous back-end data sources.
+**[Vega](https://altair-viz.github.io/)** Declarative language that illustrates a grammar of visualiazation.
+**[PiML](https://github.com/SelfExplainML/PiML-Toolbox)** An easy-to-use set of tools for developing and assessing ML models.
 
 #### Software Development
-* [Rust](https://www.rust-lang.org/) - A fast, reliable programming language that can prevent memory-safety issues, dramatically reducing lost productivity and security vulnerabilities.
-* [The Grug Brained Developer](https://grugbrain.dev/) - A generalizable philosophy of software development that emphasizes simplicity, clarity, and practicality.  
+**[Rust](https://www.rust-lang.org/)** A fast, safe programming language; a revolution in software reliability and security. 
+**[The Grug Brained Developer](https://grugbrain.dev/)** Generalizable philosophy of software development that emphasizes simplicity, clarity, and practicality.
 
 #### Natural Language
-* [Uniform Meaning Representation](https://umr4nlp.github.io/web/) - An extension of Abstract Meaning Representation to other languages.
+**[Uniform Meaning Representation](https://umr4nlp.github.io/web/)** An extension of Abstract Meaning Representation to other languages.
+**[Spacey](https://spacy.io/)** Solid NLP tools for Python.
