@@ -12,6 +12,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### My Projects
+
+**[No Phishing](https://github.com/neal-logan/no-phishing)** - Model development and evaluation for malicious URL detection
+
+
 ### Some tools and perspectives I like:
 
 **Data Science**
