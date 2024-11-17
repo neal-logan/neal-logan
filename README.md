@@ -1,13 +1,12 @@
 ## Hi there 👋
 
-I'm Neal. My career has revolved around information flows in security contexts. I'm currently a graduate student in data science at UNC Charlotte.
+I'm Neal. I'm currently a graduate student in data science at UNC Charlotte.
 
-### Passions 🔥
-- **Language+Semantics:** This has evolved from an enduring interest in foreign languages (Spanish, Japanese, Chinese-Mandarin, Dutch) to dabbling in linguistics and natural language processing with tools like [SpaCy](https://spacy.io/). More recently I've been working with large language models, mainly working to clarify immediate practical applications and limitations. I'm particularly intrigued by the apparently-untapped potential of semantic spaces and vector embeddings.
-- **Automated Decision-Making:** It's more than training accurate models.  It's evaluating models in depth with tools like [PiML](https://github.com/SelfExplainML/PiML-Toolbox).  It's bridging the gap between modeling efforts and operational decisions, ensuring alignment between the way a model was trained and how it is used.  It's having [sound processes](https://leansixsigmainstitute.org/) to integrate those decisions into.  It's making sure your systems and processes give you the data you need to evaluate model performance and make smart, timely changes.  It's [model risk management](https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm) and [human oversight requirements](https://gdpr-info.eu/art-22-gdpr/).  Most of my experience in automated decision-making is in payments/deposits fraud detection, but I'm looking to branch out.
+### Passions ❤️
+- **Language+Semantics:** This has evolved from an enduring interest in foreign languages (mostly Spanish, Japanese, Chinese-Mandarin) to dabbling in linguistics and natural language processing with tools like [SpaCy](https://spacy.io/). More recently I've been working with large language models, mainly working to clarify immediate practical applications, quirks, and limitations. I'm particularly intrigued by the unexplored potential of semantic spaces and vector embeddings.
+- **Automated Decision-Making:** It's more than training accurate models.  It's data governance and having [processes](https://leansixsigmainstitute.org/) to integrate your decisions into.  It's designing your systems and processes to generate the data you need to evaluate and improve.  It's recognizing the gap between what a model was trained to do and how it's used.  It's [model risk management](https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm) and evaluating and explaining models in depth with tools like [PiML](https://github.com/SelfExplainML/PiML-Toolbox).  It's continuous monitoring of decisioning systems and the ability to fix them promptly when things go wrong.  It's remembering that [human oversight](https://gdpr-info.eu/art-22-gdpr/) is always necessary.  Most of my experience in automated decision-making has been in payment fraud detection, but I'm always looking to branch out.
 - **Interface/Experience Design:** Clarity and usability.  [Choice architecture](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583509), plain language, [privacy by design](https://iapp.org/resources/article/oipc-privacy-by-design-resources/).  Customer journeys.  All just as relevant whether your customers are internal or external.
-- **Agility:** Design simplicity and clarity for *everything*.  Continuous integration and delivery for *everything*.  Modular, testable systems.  Fast failure. 
-Type safety. Containerization, infrastructure as code, continuous documentation.  Agility grows out of a [Grug-brained](https://grugbrain.dev/) attitude.
+- **Agility:** Change must be safe and change must not be difficult: so implement continuous integration and delivery for *everything*.  Seek design simplicity and clarity in *everything*.  Modular, testable systems.  Type safety.  Fast failure.   Containerization, infrastructure as code, continuous documentation.  Agility grows out of a [Grug-brained](https://grugbrain.dev/) attitude.
 
 ### Recent Projects 🛠️
 
@@ -16,7 +15,7 @@ Type safety. Containerization, infrastructure as code, continuous documentation.
      (Mid 2024) Model Development for Malicious URL Detection 
   </Summary><br> 
   
-  [No Phishing](https://github.com/neal-logan/no-phishing), a small project to develop and evaluate a classification model for malicious URL detection, mainly using [PiML](https://selfexplainml.github.io/PiML-Toolbox/_build/html/index.html).
+  [No Phishing](https://github.com/neal-logan/no-phishing), a small individual project to develop and evaluate a classification model for malicious URL detection, mainly using [PiML](https://selfexplainml.github.io/PiML-Toolbox/_build/html/index.html).
   
 </Details>
 
